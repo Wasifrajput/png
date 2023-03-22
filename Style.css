@@ -1,0 +1,62 @@
+.main{
+    width: 1000px; height: 700px; background-color: antiquewhite; color: white; text-align: center; font-size: x-large; margin: auto;
+}
+.row1{
+    width: 1000px; height: 100px; background-color: aquamarine; background-image: url("pic.q.jpg"); background-repeat: no-repeat; background-size: 1000px;
+}
+
+.row1-col1{ width: 100px; height: 80px; background: red; float: left; border-top: 3px solid blue; border-left: 3px solid  green;border-right: 3px solid yellow;
+}
+
+.row1-col1:hover{background-color: white; color: red;border-top: 3px solid green; border-left: 3px solid yellow;border-right: 3px solid blue;}
+.row1-col2:hover{color: lightgreen;}
+.row2{
+    width: 1000px; height: 40px; background-color:rgba(252, 0, 0, 0.486);
+}
+
+.row2-col1{
+    width: 200px; height: 40px;  float: left;
+}.row2-col1:hover{background-color: antiquewhite;color: black;}
+.row2-col2{
+    width: 200px; height: 40px; float: left;
+}.row2-col2:hover{background-color: antiquewhite;color: black;}.row2-col3{
+    width: 200px; height: 40px;float: left;
+}.row2-col3:hover{background-color: antiquewhite;color: black;}.row2-col4{
+    width: 200px; height: 40px; float: left;
+}.row2-col4:hover{background-color: antiquewhite;color: black;}.row2-col5{
+    width: 200px; height: 40px;  float: left;
+}.row2-col5:hover{background-color: antiquewhite;color: black;}
+.row3{
+    width: 250px; height: 200px; background-color: aqua;
+}
+.row3-col1-row1{
+    width: 250px; height: 40px;float: left;
+}.row3-col1-row1:hover{background-color: antiquewhite;color: black;}.row3-col1-row2{
+    width: 250px; height: 40px;float: left;
+}.row3-col1-row2:hover{background-color: antiquewhite;color: black;}.row3-col1-row3{
+    width: 250px; height: 40px;float: left;
+}.row3-col1-row3:hover{background-color: antiquewhite;color: black;}.row3-col1-row4{
+    width: 250px; height: 40px;float: left;
+}.row3-col1-row4:hover{background-color: antiquewhite;color: black;}.row3-col1-row5{
+    width: 250px; height: 40px;float: left;
+}.row3-col1-row5:hover{background-color: antiquewhite;color: black;}
+.row3-col2{
+    width: 1000px;height: 200px;
+}
+.row4{
+    width: 1000px;height: 150px;float: left; background-image: url("pic.4.jpeg"); background-repeat: no-repeat; background-size: cover; padding-top: 40px;
+}.row4:hover{color: gold;}
+.row5{
+    width: 1000px;height: 200px;float: left;
+}
+.row5-col1{
+    width: 330px;height: 200px;float: left;
+}.row5-col2{
+    width: 330px;height: 200px;float: left;
+}.row5-col3{
+    width: 330px;height: 200px;float: left;
+}
+.row6{
+ color: gold; width: 1000px;height: 50px; background-color: aqua; float: left; background-image: url("scree.jpg") ;
+background-size: cover; }
+.row6:hover{color: #000;}
